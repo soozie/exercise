@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+
+}
+
+html body {
+  margin: 0;
+}
+
+#rosso {
+  background-color: red;
+  height: 100px;
+  margin: 0;
+  width: 100%;
+}
+
+#blu {
+  background-color: blue;
+  height: 100px;
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  margin-top: -50px;
+  left: 0;
+}
