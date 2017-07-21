@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+
+}
+
+html body {
+
+}
+
+#rosso {
+  border: 1px solid black;
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
+
+#blu {
+  border: 1px solid black;
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+}
