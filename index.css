@@ -7,23 +7,19 @@ html {
 }
 
 html body {
-  margin: 0;
+
 }
 
 #rosso {
+  border: 1px solid black;
   background-color: red;
   height: 100px;
-  margin: 0;
-  width: 100%;
+  width: 100px;
 }
 
 #blu {
+  border: 1px solid black;
   background-color: blue;
   height: 100px;
-  margin: 0;
-  width: 100%;
-  position: absolute;
-  top: 50%;
-  margin-top: -50px;
-  left: 0;
+  width: 100px;
 }
